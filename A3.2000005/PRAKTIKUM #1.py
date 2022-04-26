@@ -1,3 +1,6 @@
+from turtle import backward
+
+
 print("Masukan panjang")
 panjang = int(input())
 print("Masukan Lebar")
